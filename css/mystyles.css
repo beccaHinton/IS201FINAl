@@ -1,0 +1,8 @@
+body {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifc;
+}
+#mainNav { 
+    color: rgb(211, 26, 93);
+}
+body div.overlay {
+    background-color: transparent; /* Removes tint */
+}
